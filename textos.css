@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+
+
+body{
+    background-image: url('fundo2.jpg');
+    background-position: top;
+    background-size: cover;
+    color: rgba(1, 1, 1, 0.8);
+    margin: 0;
+    padding: 0;
+    z-index:99;
+}
+.voltar{
+    font-size: 20px;
+    font-family:'Rubik', sans-serif; ;
+    color: white;
+    background: transparent;
+    border: none;
+    backdrop-filter: blur(20px);
+    width: fit-content;
+}
+.artigo1{
+    background: transparent;
+    width: 25%;
+    height: 5%;
+}
